@@ -1,0 +1,18 @@
+.PadBox{
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    padding: 10%;
+    margin: 10%;
+    border-color: black;
+    box-sizing: content-box;
+
+}
+
+@media only screen and (max-width: 600px)  {
+    .PadBox{
+        width: 100%;
+        padding: 10% 0;
+        margin: 5% 0 ;
+    }
+}

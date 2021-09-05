@@ -1,0 +1,47 @@
+[
+    {
+        "name": "future funk beats",
+        "color": "red", 
+        "url": "padsLinks/120_future_funk_beats_25.mp3"
+    },
+    {
+        "name": "stutter breakbeats",
+        "color": "green", 
+        "url": "padsLinks/120_stutter_breakbeats_16.mp3"
+    },
+    {
+        "name": "Bass Warwick heavy funk groove ",
+        "color": "yellow", 
+        "url": "padsLinks/Bass Warwick heavy funk groove on E 120 BPM.mp3"
+    },
+    {
+        "name": "electric guitar coutry slide",
+        "color": "blue", 
+        "url": "padsLinks/electric guitar coutry slide 120bpm - B.mp3"
+    },
+    {
+        "name": "StompySlosh",
+        "color": "grey", 
+        "url": "padsLinks/FUD_120_StompySlosh.mp3"
+    },
+    {
+        "name": "GrooveB",
+        "color": "white", 
+        "url": "padsLinks/GrooveB_120bpm_Tanggu.mp3"
+    },
+    {
+        "name": "MazePolitics",
+        "color": "purple", 
+        "url": "padsLinks/MazePolitics_120_Perc.mp3"
+    },
+    {
+        "name": "PAS3GROOVE",
+        "color": "pink", 
+        "url": "padsLinks/PAS3GROOVE1.03B.mp3"
+    },
+    {
+        "name": "SilentStar",
+        "color": "brown", 
+        "url": "padsLinks/SilentStar_120_Em_OrganSynth.mp3"
+    }
+]

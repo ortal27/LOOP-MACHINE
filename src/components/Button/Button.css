@@ -1,0 +1,20 @@
+.Button {
+    padding: 10px;
+    margin: 15px auto;
+    display: inline-block;
+    background-color: rgb(141, 138, 138);
+    color: aliceblue;
+    font-weight: bold;
+    cursor: pointer;
+    font: inherit; 
+    border-radius: 35px;
+}
+
+
+@media (min-width: 500px){
+    .Button {
+        margin: 5px auto;
+        padding: 15px;
+        font-size: large;
+    }
+}
