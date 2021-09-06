@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LOOP-MACHINE/static/css/main.90afe81e.chunk.css",
+    "main.js": "/LOOP-MACHINE/static/js/main.d3c076b2.chunk.js",
+    "main.js.map": "/LOOP-MACHINE/static/js/main.d3c076b2.chunk.js.map",
+    "runtime-main.js": "/LOOP-MACHINE/static/js/runtime-main.76699192.js",
+    "runtime-main.js.map": "/LOOP-MACHINE/static/js/runtime-main.76699192.js.map",
+    "static/js/2.06e1ed3c.chunk.js": "/LOOP-MACHINE/static/js/2.06e1ed3c.chunk.js",
+    "static/js/2.06e1ed3c.chunk.js.map": "/LOOP-MACHINE/static/js/2.06e1ed3c.chunk.js.map",
+    "static/js/3.fa63727e.chunk.js": "/LOOP-MACHINE/static/js/3.fa63727e.chunk.js",
+    "static/js/3.fa63727e.chunk.js.map": "/LOOP-MACHINE/static/js/3.fa63727e.chunk.js.map",
+    "index.html": "/LOOP-MACHINE/index.html",
+    "static/css/main.90afe81e.chunk.css.map": "/LOOP-MACHINE/static/css/main.90afe81e.chunk.css.map",
+    "static/js/2.06e1ed3c.chunk.js.LICENSE.txt": "/LOOP-MACHINE/static/js/2.06e1ed3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76699192.js",
+    "static/js/2.06e1ed3c.chunk.js",
+    "static/css/main.90afe81e.chunk.css",
+    "static/js/main.d3c076b2.chunk.js"
+  ]
+}
